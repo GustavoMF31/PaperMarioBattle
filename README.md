@@ -2,7 +2,9 @@
 
 This is an implementation of the Paper Mario the Origami King battle system in Elm
 
--- TODO: Add picture and netlify link
+[Play!](https://paper-mario-battle-project.netlify.app/)
+
+![Screenshot](images/img.png)
 
 In the game, you slide tiles around a circle to line up the enemies. With them lined up, you can use your weapons to hit as many of them as possible.
 I've implemented just the sliding around part. The blue dots are empty tiles and the red dots are the enemies.
