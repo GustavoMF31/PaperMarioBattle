@@ -2,6 +2,8 @@
 
 This is an implementation of the Paper Mario the Origami King battle system in Elm
 
+[README em português](README.pt-br.md)
+
 [Play!](https://paper-mario-battle-project.netlify.app/)
 
 ![Screenshot](images/img.png)
